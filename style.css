@@ -1,0 +1,641 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+       
+}
+body {
+    overflow-x: hidden;
+}
+
+
+.navbar {
+    display: flex;
+    width: 100%;
+    background-color:rgba(35, 37, 54, 1);
+    position: sticky;
+    justify-content: ;
+    gap: 50%;
+
+  
+    height: 50px;
+}
+.left-nav {
+    position: relative;
+    left: 160px;
+}
+.navbar ul li  {
+    list-style: none;
+    text-decoration: none;
+}
+.right-navbar ul li {
+    display: flex;
+    position: relative;
+    gap: 30px;
+   
+}
+  .right-navbar  .ul li a .link:hover::before {
+   
+    color: white;
+}
+.button {
+    border: none;
+ background-color: rgba(35, 37, 54, 1);
+
+
+}
+.button2 {
+    background-color: blue;
+   position: relative;
+
+}
+.kj {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.nf {
+    position: relative;
+
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.right-navbar .ul li {
+    top: 10px;
+}
+.left-nav ul li  {
+    top: 10px;
+}
+.left-nav ul li {
+    position: relative;
+    left: 160px;
+}
+.header {
+    display:flex ;
+    width: 100%;
+    position: relative;
+    background-color: 
+    rgba(35, 37, 54, 1);
+    top: 1px;
+    height:95vh ;
+    gap: 95px;
+
+}
+.button3 {
+    position: relative;
+    width: 214px;
+    height:64px ;
+    background-color: blue;
+}
+.mq {
+    justify-content: center;
+    display: flex;
+
+}
+.na {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.left-header {
+    position: relative;
+    Width:
+624px;
+Height:
+420px;
+Top:
+152px;
+Left:
+160px;
+}
+.коробка {
+    background: rgba(255, 255, 255, 0.06);
+
+    width: 24px;
+height: 24px;
+
+
+
+}
+.button2 {
+    width: 219px;
+    height: 64px;
+}
+.img {
+    Width:
+450px;
+Height:
+500px;
+
+
+}
+.right-header .img {
+    position: relative;
+    top: 96px;
+    bottom: 176px;
+}
+.left-botom {
+    position: relative;
+    bottom: 100px;
+    left: 160px;
+}
+.seaction-boy {
+    position: relative;
+    left: 160px;
+    display: flex;
+    gap: 92px;
+}
+.seaction-right {
+    position: relative;
+    top: 40px;
+}
+.seaction-img {
+    position: relative;
+    left: 160px;
+    top: 48px;
+}
+.seaction-botom  {
+    position: relative;
+    left: 160px;
+    top: 48px;
+    display: flex;
+    gap:100px ;
+}
+.seaction-girl {
+    position: relative;
+    background-color: lightblue;
+    justify-content: center;
+    align-items: center;
+    height: 620px;
+    width: 100%;
+    top: 98px;
+   
+    display: flex;
+    gap: 180px;
+
+}
+.seaction-girl-right {
+    position: relative;
+    top: 50px;
+}
+
+.girl-one {
+    display: flex;
+    position: relative;
+    gap: 15px;
+
+    width: 515px;
+    height: 140px;
+ justify-content: center;
+ align-items: center;
+background-color: rgba(255, 255, 255, 1);
+}
+.girl-two {
+    display: flex;
+    position: relative;
+    gap: 15px;
+    top: 10px;
+    width: 515px;
+    height: 140px;
+ justify-content: center;
+ align-items: center;
+background-color: rgba(255, 255, 255, 1);
+}
+.girl-three {
+    display: flex;
+    position: relative;
+    gap: 15px;
+    width: 515px;
+    top: 20px;
+    height: 140px;
+ justify-content: center;
+ align-items: center;
+background-color: rgba(255, 255, 255, 1);
+}
+.girl-four {
+    position: relative;
+    top: 13px;
+}
+.seaction-women {
+    
+    top: 70px;
+}
+.div {
+    height: 1000px;
+    background-color: rgba(255, 230, 210, 1);
+  
+}
+.div-two {
+    position: relative;
+    left: 160px;
+    top:250px;
+}
+.seaction-women-botom {
+    position: relative;
+    top: 320px;
+    display: flex;
+    gap: 50px;
+    left: 160px;
+}
+.seaction-women-one  {
+    position: relative;
+   
+    width: 405px;
+    height: 250px;
+    background-color: white;
+}
+.asd {
+    position: relative;
+    left: 48px;
+}
+.seaction-women-one ul li {
+    list-style: 
+    none;
+}
+.seaction-women-two {
+    position: relative;
+    width: 405px;
+    height: 250px;
+    background-color: white;
+}
+.dfg {
+    position: relative;
+    left: 48px;
+}
+.seaction-women-two ul li {
+    list-style: none;
+} 
+.seaction-women-three {
+    position: relative;
+    width: 405px;
+    align-items: center;
+    height: 250px;
+    background-color: white;   
+}
+.ghj {
+    position: absolute;
+     align-items: center;
+    left: 33px;
+    bottom: 2px;
+}
+.seaction-women-three ul li {
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.seaction-boy-one {
+    position: relative;
+    top: 136px;
+    left: 160px;
+}
+.class2{
+  
+}
+
+
+.hp {
+    position: relative;
+bottom: 50px;
+    left: 350px;
+    width: 24px;
+    height: 34px;
+}
+.ph {
+    position: relative;
+    top: 190px;
+    left: 160px;
+    width: 395px;
+}
+
+
+
+.vector {
+    position: relative;
+    left: 1300px;
+}
+.mini-class2 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+}
+.rt {
+    position: relative;
+
+}
+.class1 {
+    display: flex;
+    gap: 40px;
+}
+.class2 {
+    display: flex;
+    gap: 40px;
+}
+.mini-class1 {
+    position: relative;
+    left: 160px;
+    top:230px;
+    gap: 15px;
+    display: flex;
+    width: 395px;align-items: center;
+    height: 164px;
+    border: 1px solid rgba(35, 37, 54, 0.17);
+}
+.gp {
+    position: relative;
+    left: 360px;
+    bottom: 60px;
+}
+.tp {
+    position: relative;
+    left: 160px;
+    top: 405px;
+}
+.mini-class2 {
+    position: relative;
+    left: 160px;
+    top:230px;
+    gap: 15px;
+    display: flex;
+    width: 395px;align-items: center;
+    height: 164px;
+    border: 1px solid rgba(35, 37, 54, 0.17);
+}
+.lp {
+    position: relative;
+    left: 325px;
+    bottom: 60px;
+}
+.mini-class3 {
+    position: relative;
+    left: 160px;
+    top:230px;
+    gap: 15px;
+    display: flex;
+    width: 395px;align-items: center;
+    height: 164px;
+    border: 1px solid rgba(35, 37, 54, 0.17);
+}
+.mt {
+    position: relative;
+    left: 360px;
+    bottom: 60px; 
+}
+.mini-class4 {
+    position: relative;
+    left: 160px;
+    top:270px;
+    gap: 15px;
+    display: flex;
+    width: 395px;align-items: center;
+    height: 164px;
+    border: 1px solid rgba(35, 37, 54, 0.17);
+}
+.lo {
+    position: relative;
+    left: 350px;
+    bottom: 60px;  
+}
+.mini-class5 {
+    position: relative;
+    left: 160px;
+    top:270px;
+    gap: 15px;
+    display: flex;
+    width: 395px;align-items: center;
+    height: 164px;
+    border: 1px solid rgba(35, 37, 54, 0.17);
+}
+.np {
+    position: relative;
+    left: 350px;
+    bottom: 60px;  
+}
+.mini-class6 {
+    position: relative;
+    left: 160px;
+    top:270px;
+    gap: 15px;
+    display: flex;
+    width: 395px;align-items: center;
+    height: 164px;
+    border: 1px solid rgba(35, 37, 54, 0.17);
+}
+.vp {
+    position: relative;
+    left: 350px;
+    bottom: 60px;  
+
+}
+.xp {
+    position: relative;
+    left: 1030px;
+    top: 275px;
+}
+.quak1 {
+    position: relative;
+    left: 160px;
+    top: 450px;
+}
+.kv {
+    width: 16px;
+    height: 16px;
+    background-color: blue;
+}
+.seaction-boy-botom {
+    position: relative;
+    display: flex;
+    gap: 350px;
+}
+.quak2 {
+    position: relative;
+    top: 450px;
+    width:624px ;
+    height: 395px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.cy {
+    position: relative;
+    left:550px ;
+    bottom: 300px;
+}
+.lk {
+    position: relative;
+    top: 30px;
+    right: 47px;
+}
+.ft {
+    position: relative;
+    bottom: 300px;
+    left: 20px;
+}
+.cf {
+    position: relative;
+    display: flex;
+    bottom: 290px;
+    left: 20px;
+}
+.gt {
+    position: relative;
+    bottom: 300px;
+    left: 450px;
+}
+.l {
+    position: relative;
+    bottom: 270px;
+    left: 150px;
+}
+.container {
+    position: relative;
+    top: 500px;
+    width: 100%;
+    height: 77vh;
+    background-color: lightblue;
+  
+}
+.article-left {
+    display: flex;
+    position: relative;
+    left: 160px;
+    top: 150px;
+}
+.article-t {
+    width:325px ;
+    height:248px ;
+    background-color: #fff;
+}
+.article-top {
+    position: relative;
+    left: 160px;
+    top: 70px;
+}
+.fr {
+    width:16px ;
+    height: 16px;
+    background-color: blue;
+}
+
+.dv {
+    position: relative;
+    left: 40px;
+    top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.article-v {
+    width:325px ;
+    height:248px ;
+    background-color: #fff;
+}
+.article-right {
+    display: flex;
+    position: relative;
+    left: 160px;
+    top: 150px;
+}
+.vd {
+    position: relative;
+    left: 40px;
+    top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.article-botom {
+    display: flex;
+    gap: 40px;
+}
+.many {
+    position: relative;
+    top: 300px;
+    width: 1256px;
+    height: 333px;
+   left: 160px;
+    background-color: blue;
+}
+.nh {
+    position: relative;
+    bottom:253px ;
+}
+.jh {
+    position: relative;
+    left: 1140px;
+}
+.df {
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+}
+.as {
+    position: relative;
+    bottom: 300px;
+    width:454px ;
+    height:64px ;
+    left: 700px;
+}
+.ads {
+    position: relative;
+    display: flex;
+    gap: 100px;
+    top: 450px;
+    left: 160px;
+}
+.ads-right {
+    position: relative;
+    display: flex;
+    gap: 30px;
+    top: 50px;
+}
+.nba1 ul li a {
+    text-decoration: none;
+    color: #000;
+}
+.nba2 ul li a {
+    text-decoration: none;
+    color: #000;
+}
+.nba3 ul li a {
+    text-decoration: none;
+    color: #000;
+}
+.footer {
+    position: relative;
+    top: 500px;
+    
+    background-color:rgba(255, 230, 210, 1) ;
+    
+}
+.footer2 {
+    display: flex;
+    gap: 850px;
+    position: relative;
+    left: 160px;
+   
+    align-items: center;
+}
+.footer-left {
+    display: flex;
+    gap: 27px;
+    align-items: center;
+}
+.footer-right {
+    display: flex;
+    gap: 20px;
+}
