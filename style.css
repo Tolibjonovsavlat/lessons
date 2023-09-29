@@ -35,9 +35,14 @@ body {
     gap: 30px;
    
 }
-  .right-navbar  .ul li a .link:hover::before {
+  .right-navbar  .ul li .link:hover {
    
+    color: yellow;
+}
+.link {
     color: white;
+    opacity: 0.8;
+    text-decoration: none;
 }
 .button {
     border: none;
@@ -305,9 +310,7 @@ background-color: rgba(255, 255, 255, 1);
     top: 136px;
     left: 160px;
 }
-.class2{
-  
-}
+
 
 
 .hp {
