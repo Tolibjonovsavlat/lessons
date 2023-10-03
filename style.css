@@ -15,7 +15,7 @@ body {
     width: 100%;
     background-color:rgba(35, 37, 54, 1);
     position: sticky;
-    justify-content: ;
+align-items: ;
     gap: 50%;
 
   
@@ -645,4 +645,16 @@ bottom: 50px;
 
 
 
-ии
+.frog {
+    display: flex;
+    gap: 10px;
+    top: 465px;
+    position: relative;
+    flex-direction: ;
+    justify-content: flex-end;
+    right: 50px;
+    align-items: end;
+}
+.frog ul li a {
+    text-decoration: none;
+}
